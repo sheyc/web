@@ -1,0 +1,15 @@
+#public-top{
+	height: 31px;
+	background: #efefef url(../images/top.png) repeat-x;
+}
+#shortcut{
+	width: 1210px;
+	height: 30px;
+	line-height: 30px;
+	margin: 0px auto;
+	background: #6a6 url(../images/top.png) repeat-x;
+}
+#shortcut li{
+	float: left;
+	padding-left:10px;
+} 
